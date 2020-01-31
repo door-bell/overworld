@@ -124,11 +124,52 @@
         "tool",
         "infra"
       ]
+    },
+    {
+      "login": "lenniezelk",
+      "name": "Leonard Kioi kinyanjui",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/13750897?v=4",
+      "profile": "http://lkioi.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "detri",
+      "name": "Aaron Dosser",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/9055749?v=4",
+      "profile": "http://ded.zone",
+      "contributions": [
+        "code",
+        "test",
+        "ideas"
+      ]
+    },
+    {
+      "login": "PathakPratik",
+      "name": "Pratik Pathak",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17859354?v=4",
+      "profile": "https://github.com/PathakPratik",
+      "contributions": [
+        "code",
+        "test",
+        "bug"
+      ]
+    },
+    {
+      "login": "tlaudahl",
+      "name": "Travis Laudahl",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19698780?v=4",
+      "profile": "http://www.travislaudahl.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 6,
   "projectName": "overworld",
   "projectOwner": "danielgrijalva",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
